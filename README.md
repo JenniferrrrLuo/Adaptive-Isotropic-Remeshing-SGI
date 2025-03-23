@@ -1,4 +1,4 @@
-# adaptive_isotropic_remeshing
+# Adaptive Isotropic Remeshing
 
 This project was developed as part of the 2024 MIT Summer Geometry Initiative.
 
